@@ -1,12 +1,12 @@
-#Evo 4X
+##Evo 4X
 Evo 4X is a minimalistic proof of concept, of tiny pixel art organisms that strive for surviving eating plankton or photosynthetize.
 The world is proceduraly generated with a cellular automata algorithm.
 
-#Technology: GameMaker v2024.13.1.193, GML
-#State: early prototype, development paused.
+##Technology: GameMaker v2024.13.1.193, GML
+##State: early prototype, development paused.
 
 
-#Goal
+##Goal
 Survive longer than the computer's IA organisms.
 
 
