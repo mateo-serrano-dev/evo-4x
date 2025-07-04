@@ -1,0 +1,1 @@
+if (global.uistate == 0) draw_self();
