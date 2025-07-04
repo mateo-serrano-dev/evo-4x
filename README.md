@@ -5,7 +5,9 @@
 #Technology: 
 - GameMaker v2024.13.1.193 
 - GML
-##State: early prototype, development paused.
+
+##State:
+- early prototype, development paused.
 
 
 ##Goal
