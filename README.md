@@ -1,6 +1,6 @@
 #Evo 4X:
 - Evo 4X is a minimalistic proof of concept, of tiny pixel art organisms that strive for surviving eating plankton or photosynthetize.
-- Built to learn procedural generation with cellular automata algorithms, struct management and objects IA.
+- Built as an learning proyect to explore procedural generation with cellular automata algorithms, struct management and objects IA.
 
 #Technology: 
 - GameMaker v2024.13.1.193 
